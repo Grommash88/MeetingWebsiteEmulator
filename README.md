@@ -1,6 +1,7 @@
 # MeetingWebsiteEmulator
 
 ru
+
 Программа эмулирует очередь демонстрации пользователей на странице сайта знакомств.
 По умолчанию порядок очереди зависит от времени регистрации на сайте.
 После каждого показа пользователь отправляется в конец очереди.
@@ -28,6 +29,7 @@ ru
 com.grommash88.app.util.Msgs.
 
 eng
+
 The program emulates the queue of demonstrating users on a page of a dating site.
 By default, the order of the queue depends on the time of registration on the site.
 After each impression, the user is sent to the back of the queue.
