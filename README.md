@@ -19,7 +19,7 @@ ru
 интерфейс com.grommash88.app.storage.Storage и классе com.grommash88.app.properties.Props
 
 Логика демонстрации пользователей реализована в классе com.grommash88.app.site.SiteImpl
-имплементирующем интерфейс com.grommash88.app.storage.Site.
+имплементирующем интерфейс com.grommash88.app.site.Site.
 
 Модель пользователя реализована в классе com.grommash88.app.model.User.
 
@@ -47,7 +47,7 @@ are described in the com.grommash88.app.storage.RedisStorage class which impleme
 interface com.grommash88.app.storage.Storage and class com.grommash88.app.properties.Props
 
 The user demo logic is implemented in the com.grommash88.app.site.SiteImpl class
-implementing the com.grommash88.app.storage.Site interface.
+implementing the com.grommash88.app.site.Site interface.
 
 The user model is implemented in the com.grommash88.app.model.User class.
 
